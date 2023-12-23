@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou Felipe..
 - 👀 Tenho interesse em programação em geral, porém estou focado em programação mobile atualmente.
 - Estudante 2º ano do ensino médio integrado ao técnico.
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,java,mysql)](https://skillicons.dev)
 
 <!---
 FelipeRepository/FelipeRepository is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
