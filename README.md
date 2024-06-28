@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou Felipe..
 - 👀 Tenho interesse em programação em geral, porém estou focado em programação mobile atualmente.
-- Estudante 2º ano do ensino médio integrado ao técnico.
+- Estudante 3º ano do ensino médio integrado ao técnico.
   
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,mysql,go,php)](https://skillicons.dev)
 
